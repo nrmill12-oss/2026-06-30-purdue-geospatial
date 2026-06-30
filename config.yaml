@@ -54,7 +54,7 @@ contact: 'team@carpentries.org' # FIXME
 # episodes:
 # - introduction.md
 # - first-steps.md
-#
+# - Exercise # 1.md
 # learners:
 # - setup.md
 #
