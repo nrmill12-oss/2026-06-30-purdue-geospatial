@@ -54,7 +54,7 @@ contact: 'team@carpentries.org' # FIXME
 # episodes:
 # - introduction.md
 # - first-steps.md
-# - Exercise # 1.md
+# 
 # learners:
 # - setup.md
 #
@@ -68,7 +68,7 @@ contact: 'team@carpentries.org' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
-
+- Exercise # 1
 # Information for Learners
 learners: 
 
